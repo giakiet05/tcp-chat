@@ -1,0 +1,16 @@
+# Bỏ mấy file build
+*.zip
+*.exe
+*.out
+*.a
+
+# Bỏ thư mục binary
+bin/
+build/
+
+# Bỏ IDE config
+.idea/
+*.iml
+
+# Bỏ file env
+.env
